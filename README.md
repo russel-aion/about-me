@@ -9,3 +9,6 @@ I am **Russel-X** — an IT engineer and developer, passionate about automation,
 
 ## Contact:
 [LinkedIn](https://linkedin.com/in/-) | [Email](mailto:amr.service.developer@gmail.com)
+
+![GitHub followers](https://img.shields.io/github/followers/russel-x?style=social)
+
